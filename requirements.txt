@@ -1,0 +1,15 @@
+torch>=1.12.0
+torchvision
+torchaudio
+transformers
+rasterio
+geopandas
+streamlit
+pyngrok
+pandas
+numpy
+matplotlib
+scikit-learn
+opencv-python
+Pillow
+shapely
